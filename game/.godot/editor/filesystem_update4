@@ -9,3 +9,5 @@ res://scenes/killzone.tscn
 res://scenes/slime.tscn
 res://scripts/slime.gd
 res://scripts/game_manager.gd
+res://default_bus_layout.tres
+res://scenes/music.tscn
